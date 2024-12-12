@@ -5,7 +5,7 @@
 
 ### Using Deep Learning and satellite imagery to detect Urban Heat Island (UHI) effects
 
-_Final project for the Data Science Bootcamp at SPICED Academy, April-June 2023. By Jan Kühn_
+San Francisco Bay University, Python Project, by Group 3, Supervised by Professor. L. Zheng
 
 The **Urban Heat Island (UHI) effect** is a significant environmental issue that refers to the increased temperature in urban areas compared to their rural surroundings. This phenomenon is primarily caused by human activities, changes in land use, and built infrastructure. Dark surfaces, such as certain roofing materials, are known to absorb more solar radiation and contribute to elevated temperatures.
 
@@ -103,12 +103,7 @@ Here some **image examples** from the project, all except the building footprint
   <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_luminance.png?raw=true" width="100%" />
 </a>
 
-### Thanks
 
-- ... to [**Guillaume Chevalier**](https://github.com/Vooban/) for the [code](https://github.com/Vooban/Smoothly-Blend-Image-Patches) to make smooth predictions by blending image patches.
-- ... to [**Dr. Sreenivas Bhattiprolu**](https://github.com/bnsreenu/) for inspiring tutorials on image segmentation.
-- ... to my teachers at SPICED Academy, especially [**Dr. Rakibur Rahman**](https://github.com/rahman-rakib), [**Dr. Parvin Sharifi**](https://github.com/Parvinsh), and [**Dr. Carmine Somma**](https://github.com/CarSomma).
-- ... to the great people of the **Bergamot Encoder** cohort at SPICED Academy.
-=======
+
 # sfbu-streamlit-app
 >>>>>>> 81d77bfd56b84de99e78f185dd733f8d124c8b38
