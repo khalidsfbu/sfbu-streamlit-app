@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@200&display=swap'); 
+
+html, body, [class*="css"] {
+    font-family: 'Lato', sans-serif;
+}
+
+section.main div.block-container {
+    font-size: 1.8em;
+}
+
+[data-testid="stSidebar"][aria-expanded="true"]{
+    min-width: 80px;
+    max-width: 130px;
+}
+
+h1 {
+    font-size: 4.2rem;
+}
+
+ul.presentation-bullets li {
+    font-size: 2.7rem;
+}
+
+b, strong {
+    font-weight: 700;
+    color: #1D5FA2;
+}
