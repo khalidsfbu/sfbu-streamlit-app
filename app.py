@@ -42,9 +42,9 @@ def page_start():
         """
         <br /><br />
         <h1 style="text-align: center;">Urban Heat Island Detector</h1>
-        <h2 style="text-align: center;">Final project for the Data Science Bootcamp</h2>
-        <h3 style="text-align: center;">By Jan Kühn, June 2023</h3>
-        <h3 style="text-align: center;"><em>Bergamot Encoders at SPICED Academy, Berlin</em></h3>
+        <h2 style="text-align: center;">Final project for Python Application Programming</h2>
+        <h3 style="text-align: center;">By K.M. Khalid Ahsan, Yihan Wang, Xiaoling Cui, December 2024</h3>
+        <h3 style="text-align: center;"><em>San Francisco Bay University,Fremont,CA</em></h3>
         """,
         unsafe_allow_html=True,
     )
