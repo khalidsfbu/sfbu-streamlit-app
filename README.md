@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="data/presentation/heat_island_wolfsburg_slice.png" alt="Header image showing Land Surface Temperature" width="100%"/>
 
 # Urban Heat Island Detector
@@ -108,3 +109,6 @@ Here some **image examples** from the project, all except the building footprint
 - ... to [**Dr. Sreenivas Bhattiprolu**](https://github.com/bnsreenu/) for inspiring tutorials on image segmentation.
 - ... to my teachers at SPICED Academy, especially [**Dr. Rakibur Rahman**](https://github.com/rahman-rakib), [**Dr. Parvin Sharifi**](https://github.com/Parvinsh), and [**Dr. Carmine Somma**](https://github.com/CarSomma).
 - ... to the great people of the **Bergamot Encoder** cohort at SPICED Academy.
+=======
+# sfbu-streamlit-app
+>>>>>>> 81d77bfd56b84de99e78f185dd733f8d124c8b38
