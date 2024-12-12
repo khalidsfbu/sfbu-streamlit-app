@@ -1,6 +1,5 @@
 branca==0.6.0
 folium==0.14.0
-GDAL==3.4.1 --find-links https://download.lfd.uci.edu/pythonlibs/
 geopandas==0.13.0
 keras==2.13.1
 matplotlib==3.7.1
