@@ -1,8 +1,8 @@
 """
 Streamlit app for the final project.
-SPICED Academy Data Science Bootcamp 2023.
+San Francisco Bay University, Python Project, 2024
 Building a "Urban Heat Island Detector" using satellite images.
-By Jan Kühn, https://yotka.org
+
 """
 
 import os
@@ -285,9 +285,9 @@ def display_tools():
     """
     Display tools used in the project.
     """
-    st.title("Thank you Bergamot Encoders!")
+    st.title("Thank you Group 3, Python Project!")
 
-    st.markdown("""### ... and Rakib & Parvin & Carmine & all the others!""")
+    st.markdown("""### ... and Professor L. Zheng & all the others!""")
 
     st.markdown(
         "<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />",
