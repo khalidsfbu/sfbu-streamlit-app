@@ -3,7 +3,7 @@
 
 # Urban Heat Island Detector
 
-### Using Deep Learning and satellite imagery to detect Urban Heat Island (UHI) effects
+### Using Deep Learning/Machine Learning, GIS and satellite imagery to detect Urban Heat Island (UHI) effects
 
 San Francisco Bay University, Python Project, by Group 3, Supervised by Professor. L. Zheng
 
