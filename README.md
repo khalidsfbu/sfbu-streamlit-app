@@ -53,8 +53,9 @@ sudo apt-get install libgdal-dev
 **Important:** Before running streamlit run app.py, make sure to add `SM_FRAMEWORK` as an environment variable:
 
 ```
-git clone https://github.com/yotkadata/uhi_detector
-cd uhi_detector/
+git clone https://github.com/khalidsfbu/uhi_project
+
+cd uhi_project/
 pip install -r requirements.txt
 
 export SM_FRAMEWORK=tf.keras
@@ -94,7 +95,6 @@ Here some **image examples** from the project, all except the building footprint
 #### Building Footprints
 
 <a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_buildings.png">
-  https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data
   <img src="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_buildings.png?raw=true" width="100%" />
 </a>
 
