@@ -92,10 +92,11 @@ Here some **image examples** from the project, all except the building footprint
   <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_emissivity_colored.jpg?raw=true" width="100%" />
 </a>
 
+
 #### Building Footprints
 
 <a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_buildings.png">
-  <img src="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_buildings.png?raw=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/khalidsfbu/sfbu-streamlit-app/main/data/presentation/berlin_buildings.png" width="100%" />
 </a>
 
 
