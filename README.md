@@ -75,31 +75,32 @@ Here some **image examples** from the project, all except the building footprint
 
 #### Land Surface Temperature (LST)
 
-<a href="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_lst_colored.jpg">
+<a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_lst_colored.jpg">
   <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_lst_colored.jpg?raw=true" width="100%" />
 </a>
 
 #### Normalized Difference Vegetation Index (NDVI)
 
-<a href="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_ndvi_colored.jpg">
+<a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_ndvi_colored.jpg">
   <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_ndvi_colored.jpg?raw=true" width="100%" />
 </a>
 
 #### Emissivity
 
-<a href="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_emissivity_colored.jpg">
+<a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_emissivity_colored.jpg">
   <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_emissivity_colored.jpg?raw=true" width="100%" />
 </a>
 
 #### Building Footprints
 
-<a href="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_buildings.png">
-  <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_buildings.png?raw=true" width="100%" />
+<a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_buildings.png">
+  https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data
+  <img src="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_buildings.png?raw=true" width="100%" />
 </a>
 
 #### Luminance of Building Footprints
 
-<a href="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_luminance.png">
+<a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_luminance.png">
   <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_luminance.png?raw=true" width="100%" />
 </a>
 
