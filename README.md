@@ -98,6 +98,7 @@ Here some **image examples** from the project, all except the building footprint
   <img src="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_buildings.png?raw=true" width="100%" />
 </a>
 
+
 #### Luminance of Building Footprints
 
 <a href="https://github.com/khalidsfbu/sfbu-streamlit-app/tree/main/data/presentation/berlin_luminance.png">
